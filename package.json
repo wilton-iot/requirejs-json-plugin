@@ -6,7 +6,7 @@
         "Loader plugins"
     ],
     "main": "json.js",
-    "github": "https://github.com/wilton-iot/json",
+    "github": "https://github.com/wilton-iot/requirejs-json-plugin",
     "license": "MIT",
     "wilton": {
         "excludes": [
